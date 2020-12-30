@@ -1,5 +1,5 @@
-### Keith Copenhagen
-### Keith@FormeLife.com
+### Keith C.
+https://github.com/copeforme/copeforme/wiki
 
 <!--
 **copeforme/copeforme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
